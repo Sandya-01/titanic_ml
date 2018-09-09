@@ -1,7 +1,4 @@
-"""
-AUTHOR:
- #6729 5883 5291
-"""
+
 
 import pandas as pd
 import numpy as np
